@@ -1,1 +1,1 @@
-# Building-LLM-with-apllications-with-Prompt-Engineering
+# Building-LLM-apllications-with-Prompt-Engineering
